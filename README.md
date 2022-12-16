@@ -1,4 +1,4 @@
-# Sales-Analysis-MSBI
+# Game Sales-Analysis-MSBI
 
 ![Report](https://user-images.githubusercontent.com/17761176/207992014-38c9bd4e-581b-477d-8786-990324ad1bf1.png)
 
